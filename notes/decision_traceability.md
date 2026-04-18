@@ -1,9 +1,9 @@
-# Decision Traceability - ℵ - SYSTEMS
+# Decision Traceability - ELION-SPACE
 
 Autonomous decisions in quantum space systems must be
 explainable, auditable, and reviewable.
 
-ℵ - SYSTEMS treats explainability as a core design requirement.
+ELION-SPACE treats explainability as a core design requirement.
 
 ---
 

@@ -1,6 +1,6 @@
-# Critic Proofing - ℵ - SYSTEMS
+# Critic Proofing - ELION-SPACE
 
-This document anticipates common expert objections to ℵ - SYSTEMS
+This document anticipates common expert objections to ELION-SPACE
 and provides precise, non-defensive responses.
 
 Its purpose is internal alignment and communication clarity.
@@ -11,7 +11,7 @@ Its purpose is internal alignment and communication clarity.
 "Quantum computers in space are unrealistic or science fiction."
 
 Response:
-ℵ - SYSTEMS does not claim near-term deployment of large-scale
+ELION-SPACE does not claim near-term deployment of large-scale
 fault-tolerant quantum computers in orbit.
 
 The term refers to constrained, experimental, or future
@@ -26,7 +26,7 @@ The focus is mission software and autonomy, not quantum hardware.
 "Autonomy is vague-what do you actually implement?"
 
 Response:
-Autonomy at ℵ - SYSTEMS is explicitly defined as bounded,
+Autonomy at ELION-SPACE is explicitly defined as bounded,
 deterministic mission-level decision logic.
 
 It includes monitoring, evaluation, mode selection, and
@@ -44,7 +44,7 @@ Response:
 Quantum space systems impose uniquely narrow operational envelopes
 and failure sensitivities.
 
-ℵ - SYSTEMS specifically targets autonomy architectures that
+ELION-SPACE specifically targets autonomy architectures that
 protect fragile quantum payloads and schedule quantum operations
 under environmental constraints.
 
@@ -68,7 +68,7 @@ quantum payloads while preserving human authority.
 "You are overclaiming future capability."
 
 Response:
-ℵ - SYSTEMS explicitly separates current research-stage work
+ELION-SPACE explicitly separates current research-stage work
 from future phases.
 
 All public material distinguishes simulation and architecture

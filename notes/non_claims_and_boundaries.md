@@ -1,6 +1,6 @@
-# Non-Claims and Scope Boundaries - ℵ - SYSTEMS
+# Non-Claims and Scope Boundaries - ELION-SPACE
 
-This document explicitly defines what ℵ - SYSTEMS does not claim,
+This document explicitly defines what ELION-SPACE does not claim,
 design, or develop during Phase 0 and early Phase 1.
 
 Its purpose is to prevent misinterpretation and overextension.
@@ -9,7 +9,7 @@ Its purpose is to prevent misinterpretation and overextension.
 
 ## Quantum Hardware
 
-ℵ - SYSTEMS does not design, fabricate, or operate:
+ELION-SPACE does not design, fabricate, or operate:
 - Quantum processors or qubits
 - Cryogenic systems
 - Quantum control electronics
@@ -21,7 +21,7 @@ All quantum hardware is treated as an external payload.
 
 ## Performance Claims
 
-ℵ - SYSTEMS makes no claims regarding:
+ELION-SPACE makes no claims regarding:
 - Quantum advantage
 - Quantum supremacy
 - Computational speedups
@@ -33,7 +33,7 @@ Such claims are outside mission-level software scope.
 
 ## Autonomy Limits
 
-Autonomy developed by ℵ - SYSTEMS does not include:
+Autonomy developed by ELION-SPACE does not include:
 - Self-modifying mission goals
 - Unbounded or emergent decision-making
 - Replacement of human authority
@@ -45,7 +45,7 @@ All autonomy is bounded, deterministic, and rule-based.
 
 ## Deployment Status
 
-ℵ - SYSTEMS does not claim:
+ELION-SPACE does not claim:
 - Flight-qualified software
 - On-orbit demonstrations
 - Hardware readiness

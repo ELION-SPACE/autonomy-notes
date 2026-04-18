@@ -1,6 +1,6 @@
-# Phase 0 Freeze - ℵ - SYSTEMS
+# Phase 0 Freeze - ELION-SPACE
 
-As of this commit, Phase 0 of ℵ - SYSTEMS is frozen.
+As of this commit, Phase 0 of ELION-SPACE is frozen.
 
 This means:
 - No new features are added under Phase 0

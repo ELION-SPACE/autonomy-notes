@@ -1,4 +1,4 @@
-# Action Permission Model - ℵ - SYSTEMS
+# Action Permission Model - ELION-SPACE
 
 Mission autonomy must not only evaluate system state,
 but also explicitly control which actions are permitted.
@@ -17,7 +17,7 @@ For Phase 0.2, actions are abstracted into categories:
 - Protective actions (safe mode transitions)
 - Deferred actions (postponed until conditions improve)
 
-ℵ - SYSTEMS autonomy governs permission, not execution.
+ELION-SPACE autonomy governs permission, not execution.
 
 ---
 

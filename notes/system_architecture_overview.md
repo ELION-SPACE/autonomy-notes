@@ -1,8 +1,8 @@
-# System Architecture Overview — ℵ – SYSTEMS
+# System Architecture Overview — ELION-SPACE
 
 ## Architectural Perspective
 
-ℵ – SYSTEMS approaches quantum space systems from a mission-level
+ELION-SPACE approaches quantum space systems from a mission-level
 architecture perspective rather than a payload- or hardware-centric one.
 
 The central abstraction is the **autonomy layer**, which mediates between:
@@ -28,7 +28,7 @@ A quantum space system can be viewed as four logical layers:
 4. Mission Intent Layer  
    Human-defined goals, constraints, and operational policies.
 
-ℵ – SYSTEMS focuses primarily on the **Autonomy Layer** and its interfaces.
+ELION-SPACE focuses primarily on the **Autonomy Layer** and its interfaces.
 
 ---
 

@@ -1,7 +1,7 @@
-# Autonomy Small Specification — ℵ – SYSTEMS (Phase 0.2)
+# Autonomy Small Specification — ELION-SPACE (Phase 0.2)
 
 This document defines the minimal, non-negotiable requirements
-and invariants governing autonomy behavior in ℵ – SYSTEMS.
+and invariants governing autonomy behavior in ELION-SPACE.
 
 The purpose is to prevent silent scope drift and unsafe behavior.
 

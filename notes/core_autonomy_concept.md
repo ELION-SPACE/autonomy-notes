@@ -1,13 +1,13 @@
-# Core Autonomy Concept - ℵ - SYSTEMS
+# Core Autonomy Concept - ELION-SPACE
 
 _This document defines autonomy strictly at the mission level and
 does not address payload-level quantum control._
 
 _Mission-state evaluation is a foundational autonomy function that determines whether quantum operations are permitted, constrained, or prohibited._
 
-## What Autonomy Means at ℵ - SYSTEMS
+## What Autonomy Means at ELION-SPACE
 
-At ℵ - SYSTEMS, autonomy is the capability of a space system to make
+At ELION-SPACE, autonomy is the capability of a space system to make
 bounded, deterministic operational decisions onboard in response to
 its internal state and external environment, without immediate ground
 intervention.
@@ -35,7 +35,7 @@ Autonomy is therefore a prerequisite, not an optimization.
 
 ## Applicability Across Two Domains
 
-ℵ - SYSTEMS addresses two closely related domains:
+ELION-SPACE addresses two closely related domains:
 
 ### Quantum Satellites
 Including systems for:
@@ -60,7 +60,7 @@ therefore rely on the same autonomy principles at the mission level.
 
 _Autonomy decisions explicitly gate quantum operations, including the decision to defer or prohibit actions._
 
-Autonomous functions developed at ℵ - SYSTEMS include:
+Autonomous functions developed at ELION-SPACE include:
 
 - Continuous monitoring of system and payload health
 - Detection of off-nominal environmental or internal conditions
@@ -74,7 +74,7 @@ All actions are bounded by mission rules defined by human operators.
 
 ## What Autonomy Is Explicitly Not
 
-To avoid ambiguity, ℵ - SYSTEMS autonomy does not include:
+To avoid ambiguity, ELION-SPACE autonomy does not include:
 
 - Selfmodifying mission objectives
 - Unbounded decision-making
@@ -90,7 +90,7 @@ The human defines intent. Autonomy executes safely within constraints.
 _All autonomous decisions must be traceable to observable inputs and explicit rules, ensuring explainability and human trust._
 _Autonomy behavior is governed by explicit requirements and safety invariants defined in a minimal specification._
 
-ℵ - SYSTEMS follows a software-first autonomy philosophy:
+ELION-SPACE follows a software-first autonomy philosophy:
 
 - Deterministic and explainable behavior over opaque optimization
 - Clear separation between decision logic and control execution

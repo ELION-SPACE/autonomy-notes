@@ -1,6 +1,6 @@
 # Autonomy Decision Flow (Conceptual)
 
-Autonomy decisions at ℵ – SYSTEMS follow a bounded flow:
+Autonomy decisions at ELION-SPACE follow a bounded flow:
 
 1. Observe  
    Collect system, payload, and environment state.

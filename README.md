@@ -1,30 +1,28 @@
-## Start Here (External Readers)
-
-_If you are an external researcher or engineer, please begin with:_
-
-**EXTERNAL_READ_FIRST.md**
-
-_This repository documents Phase 0 research foundations only._
-
-> **Phase Status:**  
-> Phase 0 is complete and frozen (up to Phase 0.3).
-> This repository documents foundational research and
-> minimal capability grounding.
-
-
 # Autonomy Notes
 
-_This repository contains research notes and system-level thinking
-for autonomous and quantum computing satellite missions._
+Research archive for the current ELION-SPACE autonomy phase.
 
-## Focus Areas
-- Mission autonomy
-- Fault detection and recovery (FDIR)
-- Secure and resilient space systems
+## Start Here
 
-## Purpose
-_To support the development of software-first space architectures
-that enable advanced payloads such as quantum computing systems._
+If you are reading this repository from outside the project, begin with:
 
-## Status
-Phase 0 - Conceptual research
+**`EXTERNAL_READ_FIRST.md`**
+
+## What This Repository Is
+
+This repository is a supporting research archive.
+
+It documents:
+
+- mission autonomy boundaries
+- system architecture notes
+- non-claims and scope limits
+- Phase 0 terminology and conceptual grounding
+
+It does **not** function as the main technical proof point for ELION-SPACE. That role belongs more appropriately to implementation repositories such as `mission-sim`.
+
+## Current Status
+
+> **Phase Status:**  
+> Phase 0 is complete and frozen through Phase 0.3.  
+> This repository exists to preserve the conceptual foundation and external reading path for that phase.

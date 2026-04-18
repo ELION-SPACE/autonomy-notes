@@ -1,18 +1,18 @@
-# ℵ - SYSTEMS - External Read Guide
+# ELION-SPACE - External Read Guide
 
-This repository documents the Phase 0 research foundations of ℵ – SYSTEMS.
+This repository documents the Phase 0 research foundations of ELION-SPACE.
 
 The focus is mission-level software and autonomy for quantum space systems,
 including quantum satellites and future space-based quantum computing platforms.
 
-ℵ – SYSTEMS does not develop quantum hardware.
+ELION-SPACE does not develop quantum hardware.
 All work is research-stage, simulation-based, and software-first.
 
 ---
 
-## What ℵ - SYSTEMS Is
+## What ELION-SPACE Is
 
-ℵ – SYSTEMS develops:
+ELION-SPACE develops:
 - Mission autonomy architectures
 - Bounded decision-making logic
 - System-level definitions for fragile quantum space payloads
@@ -22,9 +22,9 @@ under extreme environmental and operational constraints.
 
 ---
 
-## What ℵ – SYSTEMS Is Not
+## What ELION-SPACE Is Not
 
-ℵ - SYSTEMS does not claim:
+ELION-SPACE does not claim:
 - Quantum advantage or supremacy
 - Flight-ready systems
 - Hardware development or validation
@@ -57,7 +57,7 @@ Recommended reading order:
 ## Related Artifacts
 
 - Technical overview (PDF):  
-  [https://space-aleph.github.io/Aleph-Systems_Phase-0_Technical_Overview.pdf](https://github.com/SPACE-ALEPH/space-aleph.github.io/blob/main/%D7%90%20-%20SYSTEMS_Phase-0_Technical_Overview.pdf)
+  [ELION-SPACE Phase 0 Technical Overview](https://github.com/ELION-SPACE/space-aleph.github.io/blob/main/%D7%90%20-%20SYSTEMS_Phase-0_Technical_Overview.pdf)
 
 - Mission simulation foundation:  
-  https://github.com/SPACE-ALEPH/mission-sim
+  https://github.com/ELION-SPACE/mission-sim

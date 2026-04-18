@@ -1,4 +1,4 @@
-# Mission State Model - ℵ - SYSTEMS
+# Mission State Model - ELION-SPACE
 
 This document defines a minimal mission-state model
 used to support autonomous decision-making for

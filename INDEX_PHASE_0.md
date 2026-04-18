@@ -1,7 +1,7 @@
-# ℵ - SYSTEMS - Phase 0 Index
+# ELION-SPACE - Phase 0 Index
 
 This index defines the complete and frozen state of Phase 0
-for ℵ - SYSTEMS.
+for ELION-SPACE.
 
 Phase 0 establishes the conceptual, architectural, and
 minimal capability foundations of the project.
