@@ -2,7 +2,7 @@
 
 **Status:** Pre-interview research protocol  
 **Scope:** Small-spacecraft mission planning and operations  
-**Current evidence:** Two targeted interview requests sent; no validated customer problem
+**Current evidence:** See the dated [canonical discovery log](https://github.com/ELION-SPACE/ELION-SPACE/blob/main/DISCOVERY_LOG.md); outreach is not validated customer evidence.
 
 ## Purpose
 
@@ -61,13 +61,12 @@ The following must not be treated as validation:
 
 Do not build a product from one conversation.
 
-After five qualified interviews:
-
-- Continue only if at least three respondents independently describe the same recurring problem using concrete examples.
-- Require evidence of measurable burden, operational consequence or dissatisfaction with the existing workflow.
-- Change or reject the hypothesis if the problem is rare, adequately solved or mentioned only after prompting.
-- Select a demonstration only when its user, operational scenario, inputs, outputs and evaluation metric can be stated precisely.
-- Do not claim customer validation without satisfying these conditions.
+The [canonical build gate](https://github.com/ELION-SPACE/ELION-SPACE/blob/main/DISCOVERY_LOG.md#build-gate)
+applies: five qualified interviews, at least three actual users/operators, the
+same recurring problem independently described in three interviews, evidence of
+burden/consequence, and a qualified reviewer for a precisely scoped demonstration.
+These conditions are cumulative. Inconclusive or contradictory evidence calls for
+more discovery or rejection of the hypothesis, not a product build.
 
 ## Confidentiality
 

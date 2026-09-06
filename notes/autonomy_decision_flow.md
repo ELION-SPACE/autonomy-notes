@@ -18,5 +18,7 @@ Autonomy decisions at ELION-SPACE follow a bounded flow:
 5. Report  
    Log decisions and notify ground operators when appropriate.
 
-This loop operates continuously and deterministically,
-supporting explainable and verifiable autonomy behavior.
+This is the intended continuous loop. [mission-sim](https://github.com/ELION-SPACE/mission-sim)
+currently evaluates supplied inputs on demand and returns state, reasons and a
+boolean permission. It does not collect sensor data, run this loop, execute
+payload operations, persist logs or notify ground operators.
