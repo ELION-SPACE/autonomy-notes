@@ -56,11 +56,11 @@ therefore rely on the same autonomy principles at the mission level.
 
 ---
 
-## Autonomy Scope (What the Software Does)
+## Intended Autonomy Scope
 
 _Autonomy decisions explicitly gate quantum operations, including the decision to defer or prohibit actions._
 
-Autonomous functions developed at ELION-SPACE include:
+Conceptual functions proposed for future research include:
 
 - Continuous monitoring of system and payload health
 - Detection of off-nominal environmental or internal conditions
@@ -68,7 +68,13 @@ Autonomous functions developed at ELION-SPACE include:
 - Protection of quantum payload integrity
 - Scheduling and deferral of quantum operations based on system state
 
-All actions are bounded by mission rules defined by human operators.
+These are design intentions, not implemented monitoring, scheduling or payload
+protection. The existing [mission-sim implementation](https://github.com/ELION-SPACE/mission-sim/blob/main/src/mission_state.py)
+is a stateless evaluator of three abstract indicators and a boolean operation gate;
+its [tests](https://github.com/ELION-SPACE/mission-sim/tree/main/tests) cover software
+rules, not onboard execution or prevention of physical damage.
+
+Intended actions would be bounded by mission rules defined by human operators.
 
 ---
 
@@ -81,7 +87,8 @@ To avoid ambiguity, ELION-SPACE autonomy does not include:
 - Replacement of human oversight
 - Claims of artificial general intelligence
 
-The human defines intent. Autonomy executes safely within constraints.
+The human defines intent. Safe execution within constraints is a design objective,
+not an established result of this prototype.
 
 ---
 

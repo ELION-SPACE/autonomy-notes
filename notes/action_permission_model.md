@@ -29,7 +29,8 @@ Action permission is derived from the current mission state:
   Quantum operations permitted.
 
 - CONSTRAINED  
-  Quantum operations permitted with limitations.
+  Conceptually permitted with limitations. The implemented boolean gate permits
+  them but does not enforce scheduling, duty-cycle or monitoring limits.
 
 - DEGRADED  
   Quantum operations prohibited.  
@@ -42,10 +43,11 @@ Action permission is derived from the current mission state:
 
 ## Rationale
 
-Explicit action gating:
-- Prevents accidental payload damage
-- Makes autonomy behavior auditable
-- Allows safe integration with future control systems
+Explicit action gating makes the permission rule auditable. Reducing accidental
+payload damage and enabling safe future integration are objectives, not validated
+capabilities. [The current gate](https://github.com/ELION-SPACE/mission-sim/blob/main/src/action_gating.py)
+only returns a boolean for quantum operations; support/protective categories and
+execution are conceptual.
 
 Autonomy decides *whether* an action is allowed,
 not *how* it is executed.

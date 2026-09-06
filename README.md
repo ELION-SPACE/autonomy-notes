@@ -6,7 +6,13 @@ Research archive for the current ELION-SPACE autonomy phase.
 
 If you are reading this repository from outside the project, begin with:
 
-**`EXTERNAL_READ_FIRST.md`**
+**[External reading guide](EXTERNAL_READ_FIRST.md)**
+
+For active problem discovery, see the existing [interview protocol](validation/interview-protocol.md)
+and [record template](validation/interview-record-template.md). The dated
+[discovery log](https://github.com/ELION-SPACE/ELION-SPACE/blob/main/DISCOVERY_LOG.md)
+is the canonical evidence status and build gate. Discovery work does not reopen
+the frozen Phase 0 concept archive or authorize new product features.
 
 ## What This Repository Is
 

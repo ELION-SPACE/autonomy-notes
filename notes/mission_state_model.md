@@ -21,8 +21,9 @@ Quantum operations may proceed.
 ### CONSTRAINED
 Conditions are marginal but safe.
 
-Quantum operations may proceed with limitations,
-reduced duty cycle, or increased monitoring.
+Conceptual intent: quantum operations may proceed with limitations,
+reduced duty cycle, or increased monitoring. The current boolean prototype
+does not implement those additional controls.
 
 ---
 
@@ -36,7 +37,11 @@ Protective actions may be taken.
 ---
 
 ### SAFE
-Conditions are unsafe or unknown.
+Conceptual policy: unsafe or unknown conditions must not authorize operations.
+The bounded mission-sim repair prepared on 6 September 2026 uses explicit `TypeError`/`ValueError` for missing, invalid or nonfinite inputs;
+it does not convert unknown inputs into a SAFE result. Callers must treat such
+errors as no authorization. This clarification does not establish that the repair
+has been merged; consult the checked implementation and its tests.
 
 All quantum operations are prohibited.
 System prioritizes stability and recovery.
